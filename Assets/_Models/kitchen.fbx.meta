@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 90f3ba5a68827554cb4f517ead3df236
+timeCreated: 1448018207
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bench -cabinet
+    100002: bench -disk
+    100004: bench -drawer
+    100006: bench -handles
+    100008: Book
+    100010: Book.001
+    100012: Book.002
+    100014: Book.003
+    100016: Book.004
+    100018: Book.005
+    100020: Book.006
+    100022: Brickwall
+    100024: Camera
+    100026: Cube
+    100028: Door
+    100030: Door -frame
+    100032: Door -handle
+    100034: Door -lock
+    100036: fan
+    100038: Floor
+    100040: //RootNode
+    100042: onepiece -cover
+    100044: onepiece -inside
+    100046: Point
+    100048: Point.001
+    100050: Pot
+    100052: refri -door -glas
+    100054: refri -door -handle
+    100056: refri -door -handlelink
+    100058: refri -door -inside
+    100060: refri -door -outside
+    100062: refri -glas
+    100064: refri -inside
+    100066: refri -isolation
+    100068: refri -lamp -frame
+    100070: refri -lamp -glas
+    100072: refri -outside
+    100074: shelf
+    100076: sink
+    100078: stove
+    100080: stove -glas
+    100082: stove -grill
+    100084: stove -handwheel.001
+    100086: stove -handwheel.002
+    100088: stove -handwheel.003
+    100090: stove -handwheel.004
+    100092: stove -handwheel.005
+    100094: stove -outside
+    100096: stove -plates
+    100098: stove -plates -top
+    100100: stove -top
+    100102: TV
+    100104: TV -antenna
+    100106: TV -glas
+    100108: TV -innerframe
+    100110: Walls
+    100112: water tap
+    100114: water tap -handle
+    400000: bench -cabinet
+    400002: bench -disk
+    400004: bench -drawer
+    400006: bench -handles
+    400008: Book
+    400010: Book.001
+    400012: Book.002
+    400014: Book.003
+    400016: Book.004
+    400018: Book.005
+    400020: Book.006
+    400022: Brickwall
+    400024: Camera
+    400026: Cube
+    400028: Door
+    400030: Door -frame
+    400032: Door -handle
+    400034: Door -lock
+    400036: fan
+    400038: Floor
+    400040: //RootNode
+    400042: onepiece -cover
+    400044: onepiece -inside
+    400046: Point
+    400048: Point.001
+    400050: Pot
+    400052: refri -door -glas
+    400054: refri -door -handle
+    400056: refri -door -handlelink
+    400058: refri -door -inside
+    400060: refri -door -outside
+    400062: refri -glas
+    400064: refri -inside
+    400066: refri -isolation
+    400068: refri -lamp -frame
+    400070: refri -lamp -glas
+    400072: refri -outside
+    400074: shelf
+    400076: sink
+    400078: stove
+    400080: stove -glas
+    400082: stove -grill
+    400084: stove -handwheel.001
+    400086: stove -handwheel.002
+    400088: stove -handwheel.003
+    400090: stove -handwheel.004
+    400092: stove -handwheel.005
+    400094: stove -outside
+    400096: stove -plates
+    400098: stove -plates -top
+    400100: stove -top
+    400102: TV
+    400104: TV -antenna
+    400106: TV -glas
+    400108: TV -innerframe
+    400110: Walls
+    400112: water tap
+    400114: water tap -handle
+    2300000: bench -cabinet
+    2300002: bench -disk
+    2300004: bench -drawer
+    2300006: bench -handles
+    2300008: Book
+    2300010: Book.001
+    2300012: Book.002
+    2300014: Book.003
+    2300016: Book.004
+    2300018: Book.005
+    2300020: Book.006
+    2300022: Brickwall
+    2300024: Cube
+    2300026: Door
+    2300028: Door -frame
+    2300030: Door -handle
+    2300032: Door -lock
+    2300034: fan
+    2300036: Floor
+    2300038: onepiece -cover
+    2300040: onepiece -inside
+    2300042: Pot
+    2300044: refri -door -glas
+    2300046: refri -door -handle
+    2300048: refri -door -handlelink
+    2300050: refri -door -inside
+    2300052: refri -door -outside
+    2300054: refri -glas
+    2300056: refri -inside
+    2300058: refri -isolation
+    2300060: refri -lamp -frame
+    2300062: refri -lamp -glas
+    2300064: refri -outside
+    2300066: shelf
+    2300068: sink
+    2300070: stove
+    2300072: stove -glas
+    2300074: stove -grill
+    2300076: stove -handwheel.001
+    2300078: stove -handwheel.002
+    2300080: stove -handwheel.003
+    2300082: stove -handwheel.004
+    2300084: stove -handwheel.005
+    2300086: stove -outside
+    2300088: stove -plates
+    2300090: stove -plates -top
+    2300092: stove -top
+    2300094: TV
+    2300096: TV -antenna
+    2300098: TV -glas
+    2300100: TV -innerframe
+    2300102: Walls
+    2300104: water tap
+    2300106: water tap -handle
+    3300000: bench -cabinet
+    3300002: bench -disk
+    3300004: bench -drawer
+    3300006: bench -handles
+    3300008: Book
+    3300010: Book.001
+    3300012: Book.002
+    3300014: Book.003
+    3300016: Book.004
+    3300018: Book.005
+    3300020: Book.006
+    3300022: Brickwall
+    3300024: Cube
+    3300026: Door
+    3300028: Door -frame
+    3300030: Door -handle
+    3300032: Door -lock
+    3300034: fan
+    3300036: Floor
+    3300038: onepiece -cover
+    3300040: onepiece -inside
+    3300042: Pot
+    3300044: refri -door -glas
+    3300046: refri -door -handle
+    3300048: refri -door -handlelink
+    3300050: refri -door -inside
+    3300052: refri -door -outside
+    3300054: refri -glas
+    3300056: refri -inside
+    3300058: refri -isolation
+    3300060: refri -lamp -frame
+    3300062: refri -lamp -glas
+    3300064: refri -outside
+    3300066: shelf
+    3300068: sink
+    3300070: stove
+    3300072: stove -glas
+    3300074: stove -grill
+    3300076: stove -handwheel.001
+    3300078: stove -handwheel.002
+    3300080: stove -handwheel.003
+    3300082: stove -handwheel.004
+    3300084: stove -handwheel.005
+    3300086: stove -outside
+    3300088: stove -plates
+    3300090: stove -plates -top
+    3300092: stove -top
+    3300094: TV
+    3300096: TV -antenna
+    3300098: TV -glas
+    3300100: TV -innerframe
+    3300102: Walls
+    3300104: water tap
+    3300106: water tap -handle
+    4300000: water tap -handle
+    4300002: stove -handwheel.005
+    4300004: stove -handwheel.004
+    4300006: stove -handwheel.003
+    4300008: stove -handwheel.002
+    4300010: stove -handwheel.001
+    4300012: Cube
+    4300014: TV -innerframe
+    4300016: TV -antenna
+    4300018: TV -glas
+    4300020: stove -plates -top
+    4300022: Floor
+    4300024: stove -plates
+    4300026: stove -grill
+    4300028: stove -glas
+    4300030: stove -outside
+    4300032: stove -top
+    4300034: refri -door -inside
+    4300036: refri -inside
+    4300038: refri -door -handlelink
+    4300040: refri -door -handle
+    4300042: water tap
+    4300044: Brickwall
+    4300046: Walls
+    4300048: Book.006
+    4300050: Book.005
+    4300052: Book.004
+    4300054: Book.003
+    4300056: Book.002
+    4300058: Book.001
+    4300060: fan
+    4300062: stove
+    4300064: sink
+    4300066: bench -handles
+    4300068: shelf
+    4300070: bench -disk
+    4300072: bench -drawer
+    4300074: bench -cabinet
+    4300076: refri -door -outside
+    4300078: refri -door -glas
+    4300080: refri -isolation
+    4300082: refri -outside
+    4300084: refri -glas
+    4300086: refri -lamp -glas
+    4300088: refri -lamp -frame
+    4300090: TV
+    4300092: Book
+    4300094: Door
+    4300096: Door -frame
+    4300098: Door -handle
+    4300100: Door -lock
+    4300102: Pot
+    4300104: onepiece -cover
+    4300106: onepiece -inside
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
