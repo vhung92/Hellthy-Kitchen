@@ -283,6 +283,60 @@ ModelImporter:
     4300102: Pot
     4300104: onepiece -cover
     4300106: onepiece -inside
+    6400000: bench -cabinet
+    6400002: bench -disk
+    6400004: bench -drawer
+    6400006: bench -handles
+    6400008: Book
+    6400010: Book.001
+    6400012: Book.002
+    6400014: Book.003
+    6400016: Book.004
+    6400018: Book.005
+    6400020: Book.006
+    6400022: Brickwall
+    6400024: Cube
+    6400026: Door
+    6400028: Door -frame
+    6400030: Door -handle
+    6400032: Door -lock
+    6400034: fan
+    6400036: Floor
+    6400038: onepiece -cover
+    6400040: onepiece -inside
+    6400042: Pot
+    6400044: refri -door -glas
+    6400046: refri -door -handle
+    6400048: refri -door -handlelink
+    6400050: refri -door -inside
+    6400052: refri -door -outside
+    6400054: refri -glas
+    6400056: refri -inside
+    6400058: refri -isolation
+    6400060: refri -lamp -frame
+    6400062: refri -lamp -glas
+    6400064: refri -outside
+    6400066: shelf
+    6400068: sink
+    6400070: stove
+    6400072: stove -glas
+    6400074: stove -grill
+    6400076: stove -handwheel.001
+    6400078: stove -handwheel.002
+    6400080: stove -handwheel.003
+    6400082: stove -handwheel.004
+    6400084: stove -handwheel.005
+    6400086: stove -outside
+    6400088: stove -plates
+    6400090: stove -plates -top
+    6400092: stove -top
+    6400094: TV
+    6400096: TV -antenna
+    6400098: TV -glas
+    6400100: TV -innerframe
+    6400102: Walls
+    6400104: water tap
+    6400106: water tap -handle
   materials:
     importMaterials: 1
     materialName: 0
@@ -308,7 +362,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
