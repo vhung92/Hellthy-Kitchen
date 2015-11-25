@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: a8457ec1fb430cd409b0aadcbbd5136a
+timeCreated: 1448461786
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: stove
+    100004: stove -glas
+    100006: stove -grill
+    100008: stove -handwheel.001
+    100010: stove -handwheel.002
+    100012: stove -handwheel.003
+    100014: stove -handwheel.004
+    100016: stove -handwheel.005
+    100018: stove -outside
+    100020: stove -plates
+    100022: stove -plates -top
+    100024: stove -top
+    400000: //RootNode
+    400002: stove
+    400004: stove -glas
+    400006: stove -grill
+    400008: stove -handwheel.001
+    400010: stove -handwheel.002
+    400012: stove -handwheel.003
+    400014: stove -handwheel.004
+    400016: stove -handwheel.005
+    400018: stove -outside
+    400020: stove -plates
+    400022: stove -plates -top
+    400024: stove -top
+    2300000: stove
+    2300002: stove -glas
+    2300004: stove -grill
+    2300006: stove -handwheel.001
+    2300008: stove -handwheel.002
+    2300010: stove -handwheel.003
+    2300012: stove -handwheel.004
+    2300014: stove -handwheel.005
+    2300016: stove -outside
+    2300018: stove -plates
+    2300020: stove -plates -top
+    2300022: stove -top
+    3300000: stove
+    3300002: stove -glas
+    3300004: stove -grill
+    3300006: stove -handwheel.001
+    3300008: stove -handwheel.002
+    3300010: stove -handwheel.003
+    3300012: stove -handwheel.004
+    3300014: stove -handwheel.005
+    3300016: stove -outside
+    3300018: stove -plates
+    3300020: stove -plates -top
+    3300022: stove -top
+    4300000: stove -handwheel.005
+    4300002: stove -handwheel.004
+    4300004: stove -handwheel.003
+    4300006: stove -handwheel.002
+    4300008: stove -handwheel.001
+    4300010: stove -plates -top
+    4300012: stove -plates
+    4300014: stove -grill
+    4300016: stove -glas
+    4300018: stove -outside
+    4300020: stove -top
+    4300022: stove
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
