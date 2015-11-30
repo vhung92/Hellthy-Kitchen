@@ -9,10 +9,6 @@ public class OwenScript : MonoBehaviour {
 		Fire.enableEmission = false;
 	}
 
-	void Update () {
-	
-	}
-
 	void OnTriggerEnter(Collider other){
 		StartCoroutine(Rotate(Vector3.forward * 90f, 3f)) ;
 		Fire.enableEmission = true;
