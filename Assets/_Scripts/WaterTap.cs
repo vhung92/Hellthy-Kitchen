@@ -3,26 +3,26 @@ using System.Collections;
 
 public class WaterTap : MonoBehaviour {
 	private bool isRunning = false;
-	private ParticleSystem sinkWater;
-	public GameObject sinkWaterObj;
+	public ParticleSystem sinkWater;
 
 	void Awake(){
-		sinkWater = sinkWaterObj.GetComponent<ParticleSystem> ();
+		// sinkWater = sinkWaterObj.GetComponent<ParticleSystem> ();
+		sinkWater.enableEmission = false;
 	}
 
 	void OnTriggerEnter(Collider other){
-		sinkWater.Play ();
+		sinkWater.enableEmission = true;
 	}
 
 	void OnTriggerExit(Collider other){
-		sinkWater.Stop ();
+		sinkWater.enableEmission = false;
 	}
 
 	void OnCollisionEnter(Collision other){
-		sinkWater.Play ();
+		sinkWater.enableEmission = true;
 	}
 
 	void OnCollisionExit(Collision other){
-		sinkWater.Stop ();
+		sinkWater.enableEmission = false;
 	}
 }
