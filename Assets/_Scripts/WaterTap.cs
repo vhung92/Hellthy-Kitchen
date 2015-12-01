@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class WaterTap : MonoBehaviour {
-	private bool isRunning = false;
 	public ParticleSystem sinkWater;
 
 	void Awake(){
