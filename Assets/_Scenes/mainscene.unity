@@ -925,14 +925,14 @@ MonoBehaviour:
   MaxUserDistance: 0
   DetectClosestUser: 1
   IgnoreInferredJoints: 1
-  smoothing: 1
-  UseBoneOrientationsFilter: 0
-  UseClippedLegsFilter: 0
+  smoothing: 3
+  UseBoneOrientationsFilter: 1
+  UseClippedLegsFilter: 1
   UseBoneOrientationsConstraint: 1
-  UseSelfIntersectionConstraint: 0
+  UseSelfIntersectionConstraint: 1
   Player1Avatars: []
   Player2Avatars: []
-  Player1CalibrationPose: 0
+  Player1CalibrationPose: 4
   Player2CalibrationPose: 0
   Player1Gestures: 
   Player2Gestures: 
