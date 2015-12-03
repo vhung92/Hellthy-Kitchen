@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class OwenScript : MonoBehaviour {
-
+	private bool isOn = false;
 	public ParticleSystem Fire;
 
 	void Start (){
@@ -10,8 +10,18 @@ public class OwenScript : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider other){
-		StartCoroutine(Rotate(Vector3.forward * 90f, 3f)) ;
-		Fire.enableEmission = true;
+		if(!isOn){
+			StartCoroutine(Rotate(Vector3.forward * 90f, 0.5f)) ;
+			Fire.enableEmission = true;
+			isOn = true;
+			return;
+		}
+		else if(isOn){
+			StartCoroutine(Rotate(Vector3.forward * -90f, 0.5f)) ;
+			Fire.enableEmission = false;
+			isOn = false;
+			return;
+		}
 	}
 
 	IEnumerator Rotate(Vector3 byAngles, float inTime)
