@@ -29,9 +29,7 @@ public class Handgrab : MonoBehaviour {
 	
 	void OnTriggerEnter(Collider other){
 		if(other.gameObject.tag == "Collide" && !isHolding){
-			//Objects.Add (other.gameObject);
 			rnd = other.gameObject;
-			//print(Objects.Contains (other.gameObject));
 			ObjectInArea = true;
 		}
 	}

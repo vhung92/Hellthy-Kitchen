@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 89261e26d99f18046b94f0686e986e28
-timeCreated: 1448892636
+guid: 043eaa217bcfae645a80ed6714db116b
+timeCreated: 1449223079
 licenseType: Pro
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: apple
+    4300000: Sphere
   materials:
     importMaterials: 1
     materialName: 0

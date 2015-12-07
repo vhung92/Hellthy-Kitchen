@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: e030f6929b3d40f48838f1d5968cf48d
-timeCreated: 1448892636
+guid: ff88759d0192e5e40b74cfe66b13e8b5
+timeCreated: 1449223080
 licenseType: Pro
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: garlic
+    4300000: Sphere
   materials:
     importMaterials: 1
     materialName: 0

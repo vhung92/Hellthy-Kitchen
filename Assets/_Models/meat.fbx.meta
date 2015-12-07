@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 3ca0592474253eb45a58a7e78996170c
-timeCreated: 1448892635
+guid: 5fafe84db08899543ba932d63231c8eb
+timeCreated: 1449223080
 licenseType: Pro
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: meat
+    4300000: Cylinder
   materials:
     importMaterials: 1
     materialName: 0

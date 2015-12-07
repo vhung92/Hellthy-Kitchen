@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5fc6dc27af560984ea743eb8057a4096
-timeCreated: 1448892635
+guid: 816e837963b1d9a48b33af56eb093aa7
+timeCreated: 1449223080
 licenseType: Pro
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: tomat
+    4300000: Sphere
   materials:
     importMaterials: 1
     materialName: 0

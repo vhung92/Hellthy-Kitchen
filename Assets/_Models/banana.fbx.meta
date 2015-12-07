@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 419c4d05b32dc9e4fa5e31265b48668f
-timeCreated: 1448892635
+guid: 7340d6725a817254d80133428ba89a88
+timeCreated: 1449223080
 licenseType: Pro
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: banana
+    4300000: Sphere
   materials:
     importMaterials: 1
     materialName: 0

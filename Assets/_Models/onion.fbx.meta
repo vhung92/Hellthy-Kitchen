@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: cb4226193c5808e4abd0f24dd79ed713
-timeCreated: 1448892636
+guid: 195a08b7f17b79b4388d434f6151a540
+timeCreated: 1449223080
 licenseType: Pro
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: onion
+    4300000: Sphere
   materials:
     importMaterials: 1
     materialName: 0
